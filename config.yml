@@ -1,0 +1,10 @@
+area_info:
+# [edit] enter your district code or pincode
+  __district_code : "204" 
+  
+age_limit:
+  age_limit : [18]
+
+# Set centre id according to your nearest center
+centre_id_value:
+  centre_id_value: [586028, 579942, 579981]
