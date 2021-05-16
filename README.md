@@ -28,7 +28,7 @@ area_info:
 
 Run  
 ```sh
-python3 vaccineSpotter.py
+python3 vaccine.py
 
 ```
 Then it'll search for vaccine availability in your area.
@@ -61,7 +61,7 @@ area_info:
 ```
 Run the script after setting the values 
 ```sh
-python3 vaccineSpotter.py
+python3 vaccine.py
 
 ```
 It'll search for availibility of vaccine centers in that area.
